@@ -1,25 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.e77bd846.chunk.css",
-    "main.js": "/static/js/main.ce5db2f0.chunk.js",
-    "main.js.map": "/static/js/main.ce5db2f0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b736cb1e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b736cb1e.js.map",
-    "static/css/2.9ddb28ea.chunk.css": "/static/css/2.9ddb28ea.chunk.css",
-    "static/js/2.3a5d5e79.chunk.js": "/static/js/2.3a5d5e79.chunk.js",
-    "static/js/2.3a5d5e79.chunk.js.map": "/static/js/2.3a5d5e79.chunk.js.map",
+    "main.css": "/static/css/main.7eea0713.chunk.css",
+    "main.js": "/static/js/main.5139a6ea.chunk.js",
+    "main.js.map": "/static/js/main.5139a6ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.96866db0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.96866db0.js.map",
+    "static/css/2.ad8fe80d.chunk.css": "/static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.84a6e6a2.chunk.js": "/static/js/2.84a6e6a2.chunk.js",
+    "static/js/2.84a6e6a2.chunk.js.map": "/static/js/2.84a6e6a2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.82ef3afbccc1ab28a7db8114785076a6.js": "/precache-manifest.82ef3afbccc1ab28a7db8114785076a6.js",
+    "precache-manifest.e935a627c807887105b55b0fba4439dd.js": "/precache-manifest.e935a627c807887105b55b0fba4439dd.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.9ddb28ea.chunk.css.map": "/static/css/2.9ddb28ea.chunk.css.map",
-    "static/css/main.e77bd846.chunk.css.map": "/static/css/main.e77bd846.chunk.css.map",
-    "static/js/2.3a5d5e79.chunk.js.LICENSE.txt": "/static/js/2.3a5d5e79.chunk.js.LICENSE.txt"
+    "static/css/2.ad8fe80d.chunk.css.map": "/static/css/2.ad8fe80d.chunk.css.map",
+    "static/css/main.7eea0713.chunk.css.map": "/static/css/main.7eea0713.chunk.css.map",
+    "static/js/2.84a6e6a2.chunk.js.LICENSE.txt": "/static/js/2.84a6e6a2.chunk.js.LICENSE.txt",
+    "static/media/coin-icon.png": "/static/media/coin-icon.b5b90863.png",
+    "static/media/demo-2.jpg": "/static/media/demo-2.1f222a4d.jpg",
+    "static/media/explore-icon.png": "/static/media/explore-icon.c2187daf.png",
+    "static/media/heart-icon.png": "/static/media/heart-icon.92b38818.png",
+    "static/media/hot-icon.png": "/static/media/hot-icon.a9aa468c.png",
+    "static/media/me-icon.png": "/static/media/me-icon.5e1f92d2.png",
+    "static/media/search-icon.png": "/static/media/search-icon.42156994.png",
+    "static/media/villiage-icon.png": "/static/media/villiage-icon.ae1ace1f.png",
+    "static/media/writestory-icon.png": "/static/media/writestory-icon.77ff3e9a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b736cb1e.js",
-    "static/css/2.9ddb28ea.chunk.css",
-    "static/js/2.3a5d5e79.chunk.js",
-    "static/css/main.e77bd846.chunk.css",
-    "static/js/main.ce5db2f0.chunk.js"
+    "static/js/runtime-main.96866db0.js",
+    "static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.84a6e6a2.chunk.js",
+    "static/css/main.7eea0713.chunk.css",
+    "static/js/main.5139a6ea.chunk.js"
   ]
 }
